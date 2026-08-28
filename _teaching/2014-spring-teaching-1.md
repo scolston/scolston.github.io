@@ -3,7 +3,7 @@ title: "Dynamic Meteorology [TA]"
 collection: teaching
 type: ""
 permalink: /teaching/2026fall
-venue: "Iowa State University, Department of Earth, Atmosphere and Climate, 2026"
+venue: "Iowa State University, Department of Earth, Atmosphere and Climate"
 date: 2026-09-01
 location: "City, Country"
 ---
