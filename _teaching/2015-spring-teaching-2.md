@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Calculus 1 [Recitation Instructor]"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: ""
+permalink: /teaching/2026spring
+venue: "Iowa State University, Department of Mathematics"
+date: 2026-01-01
 location: "City, Country"
 ---
 
