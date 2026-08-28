@@ -2,9 +2,8 @@
 title: "Quantifying the impact of the convective wind gust parameter on land model estimates of the surface energy balance at kilometer scales that resolve convective gusts"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Colston, S., & Williams, I. N. (2025). Quantifying the impact of the convective wind gust parameter on land model estimates of the surface energy balance at kilometer scales that resolve convective gusts. 105th Annual AMS Meeting 2025, 105, 449502.
-'
+permalink: ''
+excerpt: 'Colston, S., & Williams, I. N. (2025). Quantifying the impact of the convective wind gust parameter on land model estimates of the surface energy balance at kilometer scales that resolve convective gusts. 105th Annual AMS Meeting 2025, 105, 449502.'
 date: 2024-02-17
 venue: ''
 paperurl: '[https://academicpages.github.io/files/paper3.pdf](https://ui.adsabs.harvard.edu/abs/2025AMS...10549502C/abstract)'
