@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Meteorology [TA]"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "Iowa State University, Department of Earth, Atmosphere and Climate, 2026"
 date: 2026-09-01
