@@ -3,7 +3,7 @@ title: "Convectively Induced Secondary Circulations and Wind-Driven Heat Fluxes 
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: ''
+excerpt: 'Colston, S., and Williams, I.N. (2024). Convectively induced secondary circulations and wind-driven heat fluxes in the surface energy balance over land. Geophysical Research Letters, 51, e2024GL110565. https://doi.org/10.1029/2024GL110565'
 date: 2024-10-22
 venue: ''
 slidesurl: ''
