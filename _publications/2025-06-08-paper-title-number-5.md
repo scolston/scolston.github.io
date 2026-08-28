@@ -2,13 +2,11 @@
 title: "Impacts of Clouds and Convectively Induced Atmospheric Heterogeneities on the Surface Energy Balance in the Energy Exascale Earth System Land Model"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Colston, S., & Williams, I. N. (2024). Impacts of clouds and convectively induced atmospheric heterogeneities on the surface energy balance in the energy exascale earth system land model. 104th Annual AMS Meeting 2024, 104, 427527.
-'
-date: 
-venue: 'GitHub Journal of Bugs'
+permalink: ''
+excerpt: 'Colston, S., & Williams, I. N. (2024). Impacts of clouds and convectively induced atmospheric heterogeneities on the surface energy balance in the energy exascale earth system land model. 104th Annual AMS Meeting 2024, 104, 427527.'
+date: ''
+venue: ''
 paperurl: 'https://academicpages.github.io/files/paper3.pdf](https://ui.adsabs.harvard.edu/abs/2024AMS...10427527C/abstract'
 citation: ''
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
